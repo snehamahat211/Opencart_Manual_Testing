@@ -6,10 +6,10 @@ OpenCart is a free and open-source e-commerce platform for creating and managing
 
 ## Interfaces where Test is performed
 #### 1. Front Page
-![Output](Opencart1.png)
+![Output](opencart1.png)
 
 #### 5.Login Page
-![Output](Login(2).png)
+![Output](Login(1).png)
 
 #### 6.Fastcash Page
 ![Output](Fastcash.png)
