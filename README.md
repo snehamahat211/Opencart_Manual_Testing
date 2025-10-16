@@ -9,7 +9,7 @@ OpenCart is a free and open-source e-commerce platform for creating and managing
 ![Output](opencart1.png)
 
 #### 5.Login Page
-![Output](login(2).png)
+![Output](loginn.png)
 
 #### 6.register Page
 ![Output](register.png)
@@ -20,4 +20,6 @@ OpenCart is a free and open-source e-commerce platform for creating and managing
 #### 8. Search result
 ![Output](Search.png)
 
+## Conclusion
+Overall, the manual testing of the OpenCart demo revealed that the application is largely stable and functional, especially concerning its core e-commerce features. The testing covered key user journeys, including account creation, product browsing, and the checkout process, with a high percentage of test cases passing as expected. 
 
