@@ -9,7 +9,7 @@ OpenCart is a free and open-source e-commerce platform for creating and managing
 ![Output](opencart1.png)
 
 #### 5.Login Page
-![Output](login(1).png)
+![Output](login(2).png)
 
 #### 6.register Page
 ![Output](register.png)
@@ -18,7 +18,7 @@ OpenCart is a free and open-source e-commerce platform for creating and managing
 ![Output](shopping.png)
 
 #### 8. Search result
-![Output](search.png)
+![Output](Search.png)
 
 #### 9.Balancecheck Page
 ![Output](Balancecheck.png)
