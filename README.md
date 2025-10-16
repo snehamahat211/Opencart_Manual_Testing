@@ -1,8 +1,8 @@
 ### OPEN CART (MANUAL TESTING)
 
 ## Introduction
-
-OpenCart is a free and open-source e-commerce platform for creating and managing free online stores. It is user-friendly, customizable, and can support many products, payment methods, and extensions. Businesses typically use the platform to sell products online, manage a list of customers, and manage orders all from one place.
+As a tester, you can view the OpenCart demo as a complete, miniature e-commerce application ready for you to explore and evaluate. It's a risk-free and accessible environment to practice and demonstrate your testing skills. 
+In the perspectives of user "OpenCart is a free and open-source e-commerce platform for creating and managing free online stores. It is user-friendly, customizable, and can support many products, payment methods, and extensions. Businesses typically use the platform to sell products online, manage a list of customers, and manage orders all from one place." which is going to be tested by Testers.
 
 ## Interfaces where Test is performed
 #### 1. Front Page
